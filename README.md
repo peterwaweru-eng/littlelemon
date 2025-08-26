@@ -68,9 +68,7 @@ The application will be available at `http://127.0.0.1:8000/`
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
